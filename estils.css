@@ -70,9 +70,14 @@ body {
   animation: aterratge 2s cubic-bezier(0,0,0,1) forwards;
 }
 
-#compte-corrent {
+#subtitol {
   opacity: 0;
   animation-delay: 1s;
+}
+
+#compte-corrent {
+  opacity: 0;
+  animation-delay: 2s;
   margin-bottom: auto;
 }
 
